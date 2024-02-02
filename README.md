@@ -12,4 +12,6 @@ So, it's more of a personal interest that made me choose the particular dataset,
 
 
 EDA.ipnyb: Exploratory Data Analysis \
-games.csv: CSV of the data used
+games.csv: CSV of the data used \
+Videogames 1980-2023.pptx: presentation for class \
+videogames_project_full.ipynb: the whole processing of the dataset (with EDA) \
